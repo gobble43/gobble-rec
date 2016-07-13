@@ -1,5 +1,5 @@
 {
-  "name": "gobble-template",
+  "name": "gobble-rec-users",
   "version": "1.0.0",
   "description": "Gobble microservice boilerplate",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "lint": "./node_modules/.bin/eslint ./"
   },
   "keywords": [],
-  "author": "jackrzhang",
+  "author": "willwtang",
   "license": "MIT",
   "devDependencies": {
     "chai": "^3.5.0",
